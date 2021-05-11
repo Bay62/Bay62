@@ -22,7 +22,8 @@ Mostrerà la prima uccisione a tutti.
   <thead>
     <tr>
       <th style="text-align:center">Human</th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left"><b>SCP</b>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -31,7 +32,10 @@ Mostrerà la prima uccisione a tutti.
         <p>Soglia normale: 2hp ogni 13s a 60% di vita</p>
         <p>Soglia critica: 4hp ogni 13s a 20% di vita</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Soglia normale: 17hp ogni 13s a 70% di vita</p>
+        <p>Soglia critica: 30hp ogni 13s a 15% di vita</p>
+      </td>
     </tr>
   </tbody>
 </table>
