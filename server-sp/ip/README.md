@@ -24,9 +24,12 @@ Mostrerà la prima uccisione a tutti.
       <th style="text-align:center">Human</th>
       <th style="text-align:left"><b>SCP</b>
       </th>
-      <th style="text-align:left">SCP049-2</th>
-      <th style="text-align:left">SCP106</th>
-      <th style="text-align:left">SCP6666 (Don Franco)</th>
+      <th style="text-align:left"><b>SCP049-2</b>
+      </th>
+      <th style="text-align:left"><b>SCP106</b>
+      </th>
+      <th style="text-align:left"><b>SCP6666 (Don Franco)</b>
+      </th>
     </tr>
   </thead>
   <tbody>
