@@ -24,6 +24,9 @@ Mostrerà la prima uccisione a tutti.
       <th style="text-align:center">Human</th>
       <th style="text-align:left"><b>SCP</b>
       </th>
+      <th style="text-align:left">SCP049-2</th>
+      <th style="text-align:left">SCP106</th>
+      <th style="text-align:left">SCP6666 (Don Franco)</th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +38,18 @@ Mostrerà la prima uccisione a tutti.
       <td style="text-align:left">
         <p>Soglia normale: 17hp ogni 13s a 70% di vita</p>
         <p>Soglia critica: 30hp ogni 13s a 15% di vita</p>
+      </td>
+      <td style="text-align:left">
+        <p>Soglia normale: 20hp ogni 13s a 100% di vita</p>
+        <p>Soglia critica: 35hp ogni 13s a 20% di vita</p>
+      </td>
+      <td style="text-align:left">
+        <p>Soglia nomale: 4hp ogni 13s a 60% di vita</p>
+        <p>Soglia critica: 7hp ogni 13s a 10% di vita</p>
+      </td>
+      <td style="text-align:left">
+        <p>Soglia normale: 10hp ogni 13s a 65% di vita</p>
+        <p>Soglia critica: 30hp ogni 13s a 20% di vita</p>
       </td>
     </tr>
   </tbody>
