@@ -13,7 +13,26 @@ Upgrade ad Scp079 \([BetterScp079](betterscp079.md)\)
 **CustomItems \(**[**EXILEDTeam**](https://github.com/Exiled-Team)**\)**  
 Aggiunge item customizzabili ed "innovativi", più informazioni: [CustomItems](customitems.md).
 
-**FirstBlood \(**[**iopietro**](https://github.com/iopietro)**\)**
+**FirstBlood \(**[**iopietro**](https://github.com/iopietro)**\)**  
+Mostrerà la prima uccisione a tutti.
 
 **HPRegeneration \(**[**iopietro** ](https://github.com/iopietro)\*\*\*\*[**&** ](https://it.wikipedia.org/wiki/E_commerciale)\*\*\*\*[**terminator-97**](https://github.com/terminator-97)**\)**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Human</th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>Soglia normale: 2hp ogni 13s a 60% di vita</p>
+        <p>Soglia critica: 4hp ogni 13s a 20% di vita</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
