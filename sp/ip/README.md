@@ -8,7 +8,7 @@ description: La nostra lista dei plugin e delle loro funzionalità!
 Dopo 25 minuti dall'inizio del round, verrà attivata la nuke in automatico. TIP: se la nuke verrà disattivata verrà fatta esplodere instantaneamente \(30s\), dopo di che non si potrà più disattivare.
 
 **BetterScp079 \(**[**iopietro**](https://github.com/iopietro)**\)**  
-Upgrade ad SCP-079 \([BetterScp079](betterscp079.md)\)
+Versione potenziata di SCP-079, più informazioni [BetterScp079](betterscp079.md).
 
 **CustomItems \(**[**EXILED Team**](https://github.com/Exiled-Team)**\)**  
 Aggiunge item customizzabili ed "innovativi", più informazioni: [CustomItems](customitems.md).
