@@ -14,10 +14,10 @@ Upgrade ad SCP-079 \([BetterScp079](betterscp079.md)\)
 Aggiunge item customizzabili ed "innovativi", più informazioni: [CustomItems](customitems.md).
 
 **FirstBlood \(**[**iopietro**](https://github.com/iopietro)**\)**  
-Mostrerà la prima uccisione a tutti.
+Mostra la prima uccisione a tutti.
 
 **HPRegeneration \(**[**iopietro** ](https://github.com/iopietro)& ****[**terminator-97**](https://github.com/terminator-97)**\)**  
-Curerà i player di ogni classe ogni 13 secondi usando questa tabella:
+Cura i player di ogni classe ogni 13 secondi usando questa tabella:
 
 <table>
   <thead>
