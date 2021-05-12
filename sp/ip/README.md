@@ -8,10 +8,10 @@ description: La nostra lista dei plugin e delle loro funzionalità!
 Dopo 25 minuti dall'inizio del round, verrà attivata la nuke in automatico. TIP: se la nuke verrà disattivata verrà fatta esplodere instantaneamente \(30s\), dopo di che non si potrà più disattivare.
 
 **BetterScp079 \(**[**iopietro**](https://github.com/iopietro)**\)**  
-Versione potenziata di SCP-079, più informazioni [BetterScp079](betterscp079.md).
+Versione potenziata di SCP-079, più informazioni in [BetterScp079](betterscp079.md).
 
 **CustomItems \(**[**EXILED Team**](https://github.com/Exiled-Team)**\)**  
-Aggiunge item customizzabili ed "innovativi", più informazioni: [CustomItems](customitems.md).
+Aggiunge item customizzabili ed "innovativi", più informazioni in [CustomItems](customitems.md).
 
 **FirstBlood \(**[**iopietro**](https://github.com/iopietro)**\)**  
 Mostra la prima uccisione a tutti.
@@ -86,14 +86,14 @@ Cura i player di ogni classe ogni 13 secondi usando questa tabella:
 SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../info-gioco/scps.md), se vengono droppate all'interno di essa delle monetine \([coin](../info-gioco/)\) si otterranno oggetti casuali.
 
 **SCP-DON\_FRANCO/SCP-6666 \(**[**iopietro**](https://github.com/iopietro)**\)**  
-[SCP-DON\_FRANCO](scpdonfranco.md) è un SCP a tutti gli effetti, ha 1500 hp, non può prendere danno da caduta ne può essere danneggiato \(preso da SCP-106\) dagli altri SCP.
+[SCP-DON\_FRANCO](scpdonfranco.md) è un SCP a tutti gli effetti, ha 1500 hp, non può prendere danno da caduta ne può essere danneggiato \(preso da SCP-106\) dagli altri SCP. Più informazioni in [ScpDonFranco](scpdonfranco.md).
 
 **SCPUtils \(**[**terminator-97**](https://github.com/terminator-97)**\)**  
-Aggiunge piccole funzionalità al server, più informazioni [SCPUtils](scputils.md).
+Aggiunge piccole funzionalità al server, più informazioni in [SCPUtils](scputils.md).
 
 **TaserGun \(**[**iopietro**](https://github.com/iopietro) **&** [**EXILED Team**](https://github.com/EXILED-Team)**\)**  
 È una [USP](../info-gioco/armi.md) modificata e resa Pistola Taser, quando usata stordirà chi colpito per 2 secondi, non ha effetti sulle persone dello stesso [team](../info-gioco/).
 
 **XPPro \(**[**iopietro**](https://github.com/iopietro)**\)**  
-Sistema di XP, ogni 5 livelli ottenuti verranno aggiunti nuovi oggetti agli inventari, più informazioni [XPPro](xppro.md).
+Sistema di XP, ogni 5 livelli ottenuti verranno aggiunti nuovi oggetti agli inventari, più informazioni in [XPPro](xppro.md).
 
