@@ -83,7 +83,7 @@ Curerà i player di ogni classe ogni 13 secondi usando questa tabella:
 È una [Com-15](../info-gioco/armi.md) modificata e resa Pistola Medica. Se usata \(sparata\) curerà di 20hp gli amici e danneggerà di 21hp \(con il silenziatore 19hp\) i nemici.
 
 **SCP-1162 \(iopietro\)**  
-SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../info-gioco/scps.md), se vengono droppate delle monetine \([coin](../info-gioco/)\) si otterranno oggetti casuali.
+SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../info-gioco/scps.md), se vengono droppate all'interno di essa delle monetine \([coin](../info-gioco/)\) si otterranno oggetti casuali.
 
 **SCP-DON\_FRANCO/SCP-6666 \(iopietro\)**  
 [SCP-DON\_FRANCO](scpdonfranco.md) è un SCP a tutti gli effetti, ha 1500 hp, non può prendere danno da caduta ne può essere danneggiato \(preso da SCP-106\) dagli altri SCP.
