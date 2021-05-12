@@ -10,13 +10,13 @@ Dopo 25 minuti dall'inizio del round, verrà attivata la nuke in automatico. TIP
 **BetterScp079 \(**[**iopietro**](https://github.com/iopietro)**\)**  
 Upgrade ad Scp079 \([BetterScp079](betterscp079.md)\)
 
-**CustomItems \(**[**EXILEDTeam**](https://github.com/Exiled-Team)**\)**  
+**CustomItems \(**[**EXILED Team**](https://github.com/Exiled-Team)**\)**  
 Aggiunge item customizzabili ed "innovativi", più informazioni: [CustomItems](customitems.md).
 
 **FirstBlood \(**[**iopietro**](https://github.com/iopietro)**\)**  
 Mostrerà la prima uccisione a tutti.
 
-**HPRegeneration \(**[**iopietro** ](https://github.com/iopietro)\*\*\*\*[**&** ](https://it.wikipedia.org/wiki/E_commerciale)\*\*\*\*[**terminator-97**](https://github.com/terminator-97)**\)**
+**HPRegeneration \(**[**iopietro** ](https://github.com/iopietro)& ****[**terminator-97**](https://github.com/terminator-97)**\)**
 
 <table>
   <thead>
@@ -57,4 +57,6 @@ Mostrerà la prima uccisione a tutti.
     </tr>
   </tbody>
 </table>
+
+
 
