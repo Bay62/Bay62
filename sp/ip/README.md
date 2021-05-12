@@ -88,6 +88,12 @@ SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../info-gioco/scps
 **SCP-DON\_FRANCO/SCP-6666 \(iopietro\)**  
 [SCP-DON\_FRANCO](scpdonfranco.md) è un SCP a tutti gli effetti, ha 1500 hp, non può prendere danno da caduta ne può essere danneggiato \(preso da SCP-106\) dagli altri SCP.
 
+**SCPUtils \(terminator-97\)**  
+Aggiunge piccole funzionalità al server, più informazioni [SCPUtils](scputils.md).
+
 **TaserGun \(iopietro & EXILED Team\)**  
 È una [USP](../info-gioco/armi.md) modificata e resa Pistola Taser, quando usata stordirà chi colpito per 2 secondi, non ha effetti sulle persone dello stesso [team](../info-gioco/).
+
+**XPPro \(iopietro\)**  
+Sistema di XP, ogni 5 livelli ottenuti verranno aggiunti nuovi oggetti agli inventari, più informazioni [XPPro](xppro.md).
 
