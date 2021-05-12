@@ -8,7 +8,7 @@ description: La nostra lista dei plugin e delle loro funzionalità!
 Dopo 25 minuti dall'inizio del round, verrà attivata la nuke in automatico. TIP: se la nuke verrà disattivata verrà fatta esplodere instantaneamente \(30s\), dopo di che non si potrà più disattivare.
 
 **BetterScp079 \(**[**iopietro**](https://github.com/iopietro)**\)**  
-Upgrade ad Scp079 \([BetterScp079](betterscp079.md)\)
+Upgrade ad SCP-079 \([BetterScp079](betterscp079.md)\)
 
 **CustomItems \(**[**EXILED Team**](https://github.com/Exiled-Team)**\)**  
 Aggiunge item customizzabili ed "innovativi", più informazioni: [CustomItems](customitems.md).
@@ -16,7 +16,8 @@ Aggiunge item customizzabili ed "innovativi", più informazioni: [CustomItems](c
 **FirstBlood \(**[**iopietro**](https://github.com/iopietro)**\)**  
 Mostrerà la prima uccisione a tutti.
 
-**HPRegeneration \(**[**iopietro** ](https://github.com/iopietro)& ****[**terminator-97**](https://github.com/terminator-97)**\)**
+**HPRegeneration \(**[**iopietro** ](https://github.com/iopietro)& ****[**terminator-97**](https://github.com/terminator-97)**\)**  
+Curerà i player di ogni classe ogni 13 secondi usando questa tabella:
 
 <table>
   <thead>
@@ -58,5 +59,15 @@ Mostrerà la prima uccisione a tutti.
   </tbody>
 </table>
 
+**MedicalGun \(iopietro\)**  
+È una [Com-15](../info-gioco/armi.md) modificata e resa Pistola Medica. Se usata \(sparata\) curerà di 20hp gli amici e danneggerà di 21hp \(con il silenziatore 19hp\) i nemici.
 
+**SCP-1162 \(iopietro\)**  
+SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../info-gioco/scps.md), se vengono droppate delle monetine \([coin](../info-gioco/)\) si otterranno oggetti casuali.
+
+**SCP-DON\_FRANCO/SCP-6666 \(iopietro\)**  
+[SCP-DON\_FRANCO](scpdonfranco.md) è un SCP a tutti gli effetti, ha 1500 hp, non può prendere danno da caduta ne può essere danneggiato \(preso da SCP-106\) dagli altri SCP.
+
+**TaserGun \(iopietro & EXILED Team\)**  
+È una [USP](../info-gioco/armi.md) modificata e resa Pistola Taser, quando usata stordirà chi colpito per 2 secondi, non ha effetti sulle persone dello stesso [team](../info-gioco/).
 
