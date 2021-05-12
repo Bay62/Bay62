@@ -36,24 +36,44 @@ Curerà i player di ogni classe ogni 13 secondi usando questa tabella:
   <tbody>
     <tr>
       <td style="text-align:center">
-        <p>Soglia normale: 2hp ogni 13s a 60% di vita</p>
-        <p>Soglia critica: 4hp ogni 13s a 20% di vita</p>
+        <ul>
+          <li>Soglia normale: 2hp ogni 13s a 60% di vita
+            <br />
+          </li>
+          <li>Soglia critica: 4hp ogni 13s a 20% di vita</li>
+        </ul>
       </td>
       <td style="text-align:left">
-        <p>Soglia normale: 17hp ogni 13s a 70% di vita</p>
-        <p>Soglia critica: 30hp ogni 13s a 15% di vita</p>
+        <ul>
+          <li>Soglia normale: 17hp ogni 13s a 70% di vita
+            <br />
+          </li>
+          <li>Soglia critica: 30hp ogni 13s a 15% di vita</li>
+        </ul>
       </td>
       <td style="text-align:left">
-        <p>Soglia normale: 20hp ogni 13s a 100% di vita</p>
-        <p>Soglia critica: 35hp ogni 13s a 20% di vita</p>
+        <ul>
+          <li>Soglia normale: 20hp ogni 13s a 100% di vita
+            <br />
+          </li>
+          <li>Soglia critica: 35hp ogni 13s a 20% di vita</li>
+        </ul>
       </td>
       <td style="text-align:left">
-        <p>Soglia nomale: 4hp ogni 13s a 60% di vita</p>
-        <p>Soglia critica: 7hp ogni 13s a 10% di vita</p>
+        <ul>
+          <li>Soglia nomale: 4hp ogni 13s a 60% di vita
+            <br />
+          </li>
+          <li>Soglia critica: 7hp ogni 13s a 10% di vita</li>
+        </ul>
       </td>
       <td style="text-align:left">
-        <p>Soglia normale: 10hp ogni 13s a 65% di vita</p>
-        <p>Soglia critica: 30hp ogni 13s a 20% di vita</p>
+        <ul>
+          <li>Soglia normale: 10hp ogni 13s a 65% di vita
+            <br />
+          </li>
+          <li>Soglia critica: 30hp ogni 13s a 20% di vita</li>
+        </ul>
       </td>
     </tr>
   </tbody>
