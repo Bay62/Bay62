@@ -2,7 +2,7 @@
 
 * [Benvenuto!](README.md)
 * [Server SP](sp/README.md)
-  * [Regolamento](sp/regolamento/README.md)
+  * [Regolamento SP](sp/regolamento/README.md)
     * [Sezione 1 - Abusi della comunicazione](sp/regolamento/sezione-1-abusi-della-comunicazione/README.md)
       * [Sanzioni](sp/regolamento/sezione-1-abusi-della-comunicazione/sanzioni.md)
     * [Sezione 2 - Gameplay Abuse](sp/regolamento/sezione-2-gameplay-abuse/README.md)
@@ -27,5 +27,6 @@
   * [Eventi](sp/eventi/README.md)
     * [Regolamento Eventi](sp/eventi/regolamento-eventi.md)
     * [Lista Eventi](sp/eventi/lista-eventi.md)
-* [Server RP](server-rp.md)
+* [Server RP](server-rp/README.md)
+  * [Regolamento RP](server-rp/regolamento.md)
 

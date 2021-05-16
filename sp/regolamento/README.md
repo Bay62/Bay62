@@ -1,4 +1,8 @@
-# Regolamento
+---
+description: Il regolamento del server SP
+---
+
+# Regolamento SP
 
 **Sezione 1:** [**Sezione 1 - Abusi della comunicazione**](sezione-1-abusi-della-comunicazione/)\*\*\*\*
 
