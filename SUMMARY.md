@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Presentazione](README.md)
+* [Benvenuto!](README.md)
 * [Server SP](sp/README.md)
   * [Regolamento](sp/regolamento/README.md)
     * [Sezione 1 - Abusi della comunicazione](sp/regolamento/sezione-1-abusi-della-comunicazione/README.md)
