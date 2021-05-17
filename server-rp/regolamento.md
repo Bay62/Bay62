@@ -71,7 +71,25 @@ Questo regolamento è _stato creato da_: **Bay\#0001** & **Vicroger\#8958** e _s
 * **CHAOS INSURGENCY - PERSONALE DI CLASSE-D**
   * I Chaos non hanno una gerarchia \(per adesso\)
   * Informatore
-  * Personale di Classe-D
+  * Personale di Classe-D 
 
-#### **\#**
+
+
+#### **PERSONALE DI CLASSE-A \(SCIENZIATI E RICERCATORI\)**
+
+* **Regolamento del Personale di Classe-A \(Scienziati e Ricercatori\)**:
+  *  ****Una volta che la breccia di contenimento avrà inizio, gli Scienziati e Ricercatori dovranno cercare del Personale di sicurezza per poi essere scortati alla zona di evacuazione più vicina. Possono impartire ordini al Personale di sicurezza, come per esempio terminare un membro del Personale di Classe-D se ritenuto d'intralcio o ritenuto pericoloso durate l'evacuzione; 
+  * Gli Scienziati e i Ricercatori potranno raccogliere tutti gli oggetti SCP, ma non potranno usarli se non in caso di estremo pericolo e se potranno servire per il ricontenimento, potranno raccogliere tutte le Keycard a patto che una volta usciti dal Sito le diano al Personale di sicurezza o NTF, ovviamente se lo si dà agli NTF  si deve dare al rango più alto. Le uniche armi che potranno raccogliere e utilizzare \(solo in caso di pericolo\) saranno: Com-15 e USP, comprese TaserGun. Potranno raccogliere e utilizzare: Antidolorifici e Medkit \(potranno raccogliere il resto delle cure ma non usarle se non con un Medico vicino \[SCP-500 non lo comprende\]\).  
+
+#### PERSONALE DI CLASSE-B \(INGEGNERE\)
+
+* **Regolamento del Personale di Classe-B \(Ingegnere\)**: 
+
+  * Una volta che la breccia di contenimento avrà luogo, l'Ingegnere dovrà cercare di evacuare il prima possibile con l'aiuto del Personale di sicurezza il Sito per poi pianificare il ricontenimento delle anomalie scappate insieme alle squadre di supporto \(NTF\).
+
+
+
+  * L'Ingegnere non potrà raccogliere le Keycard più alte della sua \(Keycard: FacilityGuard, CadetNtf, LieutenantNtf, CommanderNtf, ChaosInsurgecy, FacilityManager e O5\). Potrà utilizzare la TaserGun solo con il consenso del Personale Scientifico o di Sicurezza, non potrà raccogliere nessun'arma, non potrà utilizzare gli oggetti SCP se non in caso di pericolo o se dato l'ordine dal membro della squadra di Supporto \(solo Tenenti e Comandanti\), ha un'"abilità speciale" cioè quella di poter bypassare i TeslaGate.  
+
+
 
