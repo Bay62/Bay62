@@ -32,3 +32,7 @@
 |  |  |
 |  |  |
 
+{% hint style="info" %}
+Per i comandi donatori [BetterScp079-Donators](betterscp079-donators.md)
+{% endhint %}
+
