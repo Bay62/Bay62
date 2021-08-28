@@ -14,5 +14,5 @@ description: Sezione 1 del regolamento SP
 * **1.7 Razzismo:** È severamente vietato attuare comportamenti razzisti verso qualsiasi persona. 
 * **1.8 Cyberbullismo:** È severamente vietato attuare comportamenti da cyberbullo nei confronti di qualsiasi persona.
 
-**Qui la lista delle sanzioni:** [**Sanzioni**](sanzioni.md)\*\*\*\*
+**Qui la lista delle sanzioni:** [**Sanzioni**](sanction1.md)\*\*\*\*
 

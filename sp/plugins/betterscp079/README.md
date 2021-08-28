@@ -29,6 +29,8 @@
 | .warhead abilita | Per alzare la leva della Testata nucleare, con 150 di energia. |
 | .warhead disabilita | Per abbassare la leva della Testata nucleare, con 150 di energia. |
 | .warhead info | Per ottenere le informazioni della Testata nucleare, con 0 di energia. |
-|  |  |
-|  |  |
+
+{% hint style="success" %}
+Per i comandi donatori [BetterScp079-Donators](donators-only.md)
+{% endhint %}
 

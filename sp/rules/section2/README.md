@@ -11,5 +11,5 @@
 *  **2.3 Griefing:** È vietato disturbare in modo reiterato i giocatori del proprio team o danneggiarlo. _Esempio: uccidere intenzionalmente altri SCP da SCP-079._  **Questa regola non viene applicata tra** [**Classe-D**](../../info-gioco/umani.md)**.** 
 *  **2.4 Abuso del Level Design:** È severamente vietato andare in luoghi inaccessibili o difficoltosi da raggiungere per gli SCP.  _Esempio: armadietti, saltare la ringhiera nella Surface Zone ecc._
 
-**Qui la lista delle sanzioni:** [**Sanzioni**](sanzioni.md)\*\*\*\*
+**Qui la lista delle sanzioni:** [**Sanzioni**](sanction2.md)\*\*\*\*
 
