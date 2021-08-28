@@ -80,10 +80,10 @@ Cura i player di ogni classe ogni 13 secondi usando questa tabella:
 </table>
 
 **MedicalGun \(**[**iopietro**](https://github.com/iopietro)**\)**  
-È una [Com-15](../info-gioco/armi.md) modificata e resa Pistola Medica. Se usata \(sparata\) curerà di 20hp gli amici e danneggerà di 21hp \(con il silenziatore 19hp\) i nemici.
+È una [Com-15](../gameplay/fire-arm.md) modificata e resa Pistola Medica. Se usata \(sparata\) curerà di 20hp gli amici e danneggerà di 21hp \(con il silenziatore 19hp\) i nemici.
 
 **SCP-1162 \(**[**iopietro**](https://github.com/iopietro)**\)**  
-SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../info-gioco/scps.md), se vengono droppate all'interno di essa delle monetine \([coin](../info-gioco/)\) si otterranno oggetti casuali.
+SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../gameplay/scp.md), se vengono droppate all'interno di essa delle monetine \([coin](../gameplay/)\) si otterranno oggetti casuali.
 
 **SCP-DON\_FRANCO/SCP-6666 \(**[**iopietro**](https://github.com/iopietro)**\)**  
 [SCP-DON\_FRANCO](scpdonfranco.md) è un SCP a tutti gli effetti, ha 1500 hp, non può prendere danno da caduta ne può essere danneggiato \(preso da SCP-106\) dagli altri SCP. Più informazioni in [ScpDonFranco](scpdonfranco.md).
@@ -92,7 +92,7 @@ SCP-1162 è un buco nel muro, su SL è la stanza di [SCP-173](../info-gioco/scps
 Aggiunge piccole funzionalità al server, più informazioni in [SCPUtils](scputils.md).
 
 **TaserGun \(**[**iopietro**](https://github.com/iopietro) **&** [**EXILED Team**](https://github.com/EXILED-Team)**\)**  
-È una [USP](../info-gioco/armi.md) modificata e resa Pistola Taser, quando usata stordirà chi colpito per 2 secondi, non ha effetti sulle persone dello stesso [team](../info-gioco/).
+È una [USP](../gameplay/fire-arm.md) modificata e resa Pistola Taser, quando usata stordirà chi colpito per 2 secondi, non ha effetti sulle persone dello stesso [team](../gameplay/).
 
 **XPPro \(**[**iopietro**](https://github.com/iopietro)**\)**  
 Sistema di XP, ogni 5 livelli ottenuti verranno aggiunti nuovi oggetti agli inventari, più informazioni in [XPPro](xppro.md).
