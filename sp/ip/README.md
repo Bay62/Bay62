@@ -7,7 +7,7 @@ description: La nostra lista dei plugin e delle loro funzionalità!
 **AutoWarhead \(**[**iopietro**](https://github.com/iopietro)**\)**  
 Dopo 25 minuti dall'inizio del round, verrà attivata la nuke in automatico. TIP: se la nuke verrà disattivata verrà fatta esplodere instantaneamente \(30s\), dopo di che non si potrà più disattivare.
 
-\*\*\*\*[**BetterScp079**](betterscp079/) **\(**[**iopietro**](https://github.com/iopietro)**\)**  
+**BetterScp079 \(**[**iopietro**](https://github.com/iopietro)**\)**  
 Versione potenziata di SCP-079, più informazioni in [BetterScp079](betterscp079/).
 
 **CustomItems \(**[**EXILED Team**](https://github.com/Exiled-Team)**\)**  
