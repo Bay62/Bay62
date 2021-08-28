@@ -1,6 +1,6 @@
-# Benvenuto!
+# Server Discord
 
-|  |  |
-| :--- | :--- |
-|  |  |
+|  |
+| :--- |
+|  |
 
