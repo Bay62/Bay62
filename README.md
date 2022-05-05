@@ -6,3 +6,4 @@ Welcome to my profile, idk c:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bay62&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bay62&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
